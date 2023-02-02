@@ -11,7 +11,10 @@ https://dacon.io/competitions/official/9565/overview/description
 3. 영화 관객수 예측 경진대회
 https://dacon.io/competitions/open/235536/codeshare
 
-4. 유전체 정보 품종 분류 AI 경진대회
+
+## 방학 컨퍼런스
+
+유전체 정보 품종 분류 AI 경진대회
 https://dacon.io/competitions/official/236035/overview/description
 
-
+[YB1조_방학컨퍼런스(22-2).pdf](https://github.com/hyunseo318/ESAA_Project/files/10571143/YB1._.22-2.pdf)
