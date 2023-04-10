@@ -13,6 +13,9 @@ https://dacon.io/competitions/open/235536/codeshare
 
 4. Medical Cost 예측(2023.04.10)
 https://www.kaggle.com/datasets/mirichoi0218/insurance
+[Medical Cost.pdf](https://github.com/hyunseo318/ESAA_Project/files/11187990/1_.pdf)
+
+
 
 
 ## 방학 컨퍼런스
