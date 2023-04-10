@@ -11,6 +11,9 @@ https://dacon.io/competitions/official/9565/overview/description
 3. 영화 관객수 예측 경진대회
 https://dacon.io/competitions/open/235536/codeshare
 
+4. Medical Cost 예측(2023.04.10)
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 
 ## 방학 컨퍼런스
 
