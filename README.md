@@ -13,7 +13,8 @@ https://dacon.io/competitions/open/235536/codeshare
 
 4. Medical Cost 예측(2023.04.10)
 https://www.kaggle.com/datasets/mirichoi0218/insurance
-[Medical Cost.pdf](https://github.com/hyunseo318/ESAA_Project/files/11187990/1_.pdf)
+
+  - [Medical Cost.pdf](https://github.com/hyunseo318/ESAA_Project/files/11187990/1_.pdf)
 
 
 
@@ -23,4 +24,4 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 유전체 정보 품종 분류 AI 경진대회
 https://dacon.io/competitions/official/236035/overview/description
 
-[YB1조_방학컨퍼런스(22-2).pdf](https://github.com/hyunseo318/ESAA_Project/files/10571143/YB1._.22-2.pdf)
+- [YB1조_방학컨퍼런스(22-2).pdf](https://github.com/hyunseo318/ESAA_Project/files/10571143/YB1._.22-2.pdf)
