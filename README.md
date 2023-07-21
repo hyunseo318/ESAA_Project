@@ -11,12 +11,12 @@ https://dacon.io/competitions/official/9565/overview/description
 3. 영화 관객수 예측 경진대회
 https://dacon.io/competitions/open/235536/codeshare
 
-4. Medical Cost 예측(2023.04.10)
+4. Medical Cost 예측
 https://www.kaggle.com/datasets/mirichoi0218/insurance
 
   - [Medical Cost.pdf](https://github.com/hyunseo318/ESAA_Project/files/11187990/1_.pdf)
 
-5. NLP with Disaster Tweets (2023.06.16)
+5. NLP with Disaster Tweets
 https://www.kaggle.com/competitions/nlp-getting-started/overview
 
   - [NLP with Disaster Tweets.pdf](https://github.com/hyunseo318/ESAA_Project/files/12116849/NLP.with.Disaster.Tweets.pdf)
