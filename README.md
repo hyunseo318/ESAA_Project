@@ -1,4 +1,4 @@
-# ESAA_Project
+[OB 3조 컨퍼런스 발표.pdf](https://github.com/hyunseo318/ESAA_Project/files/12226385/OB.3.pdf)# ESAA_Project
 ESAA 프로젝트 및 컨퍼런스 자료
 
 ## 미니프로젝트
@@ -31,3 +31,7 @@ https://dacon.io/competitions/official/236035/overview/description
 
 OB - 문장 유형 분류 AI 경진대회
 https://dacon.io/competitions/official/236037/overview/description
+
+- [OB3조 방학컨퍼런스(23-1).pdf](https://github.com/hyunseo318/ESAA_Project/files/12226403/OB3.23-1.pdf)
+
+
