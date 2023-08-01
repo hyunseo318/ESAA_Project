@@ -1,4 +1,4 @@
-[OB 3조 컨퍼런스 발표.pdf](https://github.com/hyunseo318/ESAA_Project/files/12226385/OB.3.pdf)# ESAA_Project
+# ESAA_Project
 ESAA 프로젝트 및 컨퍼런스 자료
 
 ## 미니프로젝트
